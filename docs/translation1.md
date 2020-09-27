@@ -6,11 +6,11 @@ Illīus *fīliī* horribilia mōnstra **erant**: Typhon, Python, et Cyclōpēs.
 Sed frāter eōrum *Ūranus*, prīmus ipse rēx deōrum. 
 *Hic* fortis et magnus **erat**, sed sapiēns.
 
-***A. Grammatical Analysis***
+**A. Grammatical Analysis**
 
 Surround all the verbs with two asterisks. (These will display as bold text.) Surround all the subjects with one asterisk. (These will display as italic text.)
 
-B. Grammatical Questions
+**B. Grammatical Questions**
 
 What case is eius and to what does it refer?
   Eius is genitive and refers to Chaos.
@@ -36,7 +36,7 @@ What declension does the word dracōnēs belong to?
 What word is understood (not included) in the sentence: Sed frāter eōrum Ūranus, prīmus ipse rēx deōrum?
   The verb to be, erat.
 
-C. Translation
+**C. Translation**
 
 Chaos was the first of the gods. 
 His daughters were Nox, the mother of all, and Terra, the goddess Earth.
