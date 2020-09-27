@@ -39,6 +39,7 @@ What word is understood (not included) in the sentence: Sed frāter eōrum Ūran
 C. Translation
 
 Please translate the passage into idiomatic English.
+
 Chaos was the first of the gods. 
 His daughters were Nox, the mother of all, and Terra, the goddess Earth.
 This mother was the god of death and destruction.
