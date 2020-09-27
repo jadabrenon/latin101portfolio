@@ -7,11 +7,9 @@ Sed frāter eōrum *Ūranus*, prīmus ipse rēx deōrum.
 *Hic* fortis et magnus **erat**, sed sapiēns.
 
 A. Grammatical Analysis
-
 Surround all the verbs with two asterisks. (These will display as bold text.) Surround all the subjects with one asterisk. (These will display as italic text.)
 
 B. Grammatical Questions
-
 What case is eius and to what does it refer?
   Eius is genitive and refers to Chaos.
   
@@ -37,9 +35,6 @@ What word is understood (not included) in the sentence: Sed frāter eōrum Ūran
   The verb to be, erat.
 
 C. Translation
-
-Please translate the passage into idiomatic English.
-
 Chaos was the first of the gods. 
 His daughters were Nox, the mother of all, and Terra, the goddess Earth.
 This mother was the god of death and destruction.
