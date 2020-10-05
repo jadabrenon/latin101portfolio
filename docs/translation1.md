@@ -18,7 +18,7 @@ What case is eius and to what does it refer?
 What type of word is haec ?
   Haec is a demonstrative pronoun.
   
-#######To whom does illius refer?
+To whom does illius refer?
   Illius refers to Chaos.
   
 What case, number, and gender is monstra?
