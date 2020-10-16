@@ -10,49 +10,70 @@ d. what is the form of gerundive (gender, case and number) ?
 
 1. 79a Hercules ad canem ducendum venit.
 
-a. 
-b. 
-c. 
-d. 
+a. venit
+
+b. ducendum
+
+c. canem
+
+d. masculine accusative singular
 
 2. 88a Atreus mittit Agamemnonem et Menelaum filios ad quaerendum Thyestem.
 
-a. 
-b. 
-c. 
-d. 
+a. ???
+
+b. quaerendum
+
+c. Thyestem
+
+d. masculine accusative singular
 
 3. 98a Ulixes cum Diomede ad Iphigeniam missus est adducendam.
 
-a. 
-b. 
-c. 
-d. 
+a. missus est
+
+b. adducendam
+
+c. Iphigeniam
+
+d. feminine accusative singular
 
 4. 172a cum Graeciae ducibus ad eum expugnandum venit.
 
-a. 
-b. 
-c. 
-d. 
+a. venit
+
+b. expugnandum
+
+c. eum
+
+d. masculine accusative plural
 
 5. 186a Metapontus venit ad Dianam Metapontinam ad sacrum faciendum.
 
-a. 
-b. 
-c. 
-d. 
+a. venit
+
+b. faciendum
+
+c. sacrum
+
+d. neuter accusative singular
 
 6. 187a infantem nutrici dedit exponendum.
 
-a. 
-b. 
-c. 
-d. 
+a. dedit
+
+b. exponendum
+
+c. infantem
+
+d. masculine accusative singular
 
 7. 220_218.2 nomen patris ei dandum est.
 
-a. 
-b. 
-c. 
-d. 
+a. est
+
+b. dandum
+
+c. nomen
+
+d. neuter nominative singular
