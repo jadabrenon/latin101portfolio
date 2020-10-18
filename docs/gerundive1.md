@@ -20,7 +20,7 @@ d. masculine accusative singular
 
 2. 88a Atreus mittit Agamemnonem et Menelaum filios ad quaerendum Thyestem.
 
-a. ???
+a. mittit
 
 b. quaerendum
 
