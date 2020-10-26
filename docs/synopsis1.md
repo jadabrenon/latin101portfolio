@@ -2,8 +2,8 @@
 
 third singular active: 
 third singular passive: 
-second singular active: 
-second singular passive: 
+second singular active: amas, amabas, amaviste
+second singular passive: amaris, amabaris, 
 third plural active: 
 third plural passive: 
 
