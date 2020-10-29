@@ -1,3 +1,5 @@
+**Satisfactory:  full credit**
+
 1. Prometheus homines ex luto fingebat.
 
 Prometheus homines ex quo fingebat?
