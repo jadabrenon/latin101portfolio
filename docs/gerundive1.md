@@ -1,3 +1,5 @@
+**Satisfactory: full credit**
+
 Each of these sentences includes a gerundive to express purpose.
 Submitting your exercise
 For each sentence, answer the following four questions:
