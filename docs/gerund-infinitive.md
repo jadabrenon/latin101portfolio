@@ -1,3 +1,5 @@
+**Needs correction**
+
 1. Hercules Antaeum occidit. hic cogebat hospites secum luctari
 
 a. What is the verb of the second sentence? cogebat
@@ -46,4 +48,4 @@ e. What case is uoluntate? ablative
 
 f. What case is deorum? genitive
 
-g. What noun does deorum describe? uolauntate
+g. What noun does deorum describe? uolauntate **Speling!**
