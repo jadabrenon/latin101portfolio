@@ -48,4 +48,4 @@ e. What case is uoluntate? ablative
 
 f. What case is deorum? genitive
 
-g. What noun does deorum describe? uolauntate **Speling!**
+g. What noun does deorum describe? uoluntate **Speling!** - corrected
