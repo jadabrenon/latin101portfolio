@@ -1,4 +1,4 @@
-**Needs correction**
+**Needs correction** - corrected
 
 1. Hercules Antaeum occidit. hic cogebat hospites secum luctari
 
