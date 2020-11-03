@@ -28,7 +28,7 @@ Surround all the verbs with two asterisks. (These will display as bold text.) Su
 Chaos was the first of the gods.
 His daughters were Nox and Terra, the mother of all men. 
 This was the mother of the god of death and destruction. 
-His sons were horrible monsters: Typhon, Python, and Cyclopes
+His sons were horrible monsters: Typhon, Python, and Cyclopes.
 Typhon and Python were horrible dragons, and Cyclopes was a foolish mason.
 But his brother Uranus was the first king of the Gods.
 He was strong and great, but wise.
