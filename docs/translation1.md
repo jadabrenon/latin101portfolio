@@ -1,4 +1,4 @@
-**Needs corrections**
+**Needs corrections** - corrected.
 
 
 *Chaos* prīmus deōrum **erat**.
@@ -19,15 +19,15 @@ Surround all the verbs with two asterisks. (These will display as bold text.) Su
 - What type of word is haec ?   Haec is a demonstrative pronoun.
 - To whom does illius refer?   Illius refers to Chaos.
 - What case, number, and gender is monstra?  Monstra is nominative plural neuter.
-- What declension does the word dracōnēs belong to?  Dracōnēs belongs to the third declension. **Does the second declension have an ending "-es"?** corrected.
-- What case and number is eorum and to whom does it refer?  Eorum is genitive plural and refers to deorum.  **You're correct that "eorum" is plural.  Who is the "their" it refers to?** corrected.
+- What declension does the word dracōnēs belong to?  Dracōnēs belongs to the third declension. 
+- What case and number is eorum and to whom does it refer?  Eorum is genitive plural and refers to deorum.
 - What word is understood (not included) in the sentence: Sed frāter eōrum Ūranus, prīmus ipse rēx deōrum?   The verb to be, erat.
 
 **C. Translation**
 
 Chaos was the first of the gods.
-His daughters were Nox and Terra, the mother of all men. **(This is nicely idiomatic, but the word order in Latin sugegsts that "moter of all" is attached to Earth, not Nox)** corrected.
-This was the mother of the god of death and destruction. **What case do you think Mortis and Leti are in?** corrected.
+His daughters were Nox and Terra, the mother of all men. 
+This was the mother of the god of death and destruction. 
 His sons were horrible monsters: Typhon, Python, and Cyclopes
 Typhon and Python were horrible dragons, and Cyclopes was a foolish mason.
 But his brother Uranus was the first king of the Gods.
