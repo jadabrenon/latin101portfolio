@@ -1,31 +1,31 @@
-tulit
+tulit - third person singular perfect indicative active
 
-ferre
+ferre - present active infinitive
 
-fert
+fert - third singular present indicative active
 
-ibat
+ibat - third singular imperfect indicative active
 
-irent
+irent - third plural imperfect subjunctive active
 
-feratur
+feratur - third singular present subjunctive passive
 
-ferretur
+ferretur - third singular imperfect subjunctive passive
 
-it
+it - third singular present indicative active
 
-eunt
+eunt - third plural present indicative active
 
-fertur
+fertur - third singular present indicative passive
 
-lati sunt
+lati sunt - third plural perfect indicative passive
 
-lata sit
+lata sit - third singular perfect subjunctive passive
 
-ierint
+ierint - third plural perfect subjunctive active
 
-tulissent
+tulissent - third plural plurperfect subjunctive active
 
-lati sint
+lati sint - third plural perfect passive subjunctive
 
-latus esset
+latus esset - third singular pluperfect active subjunctive
