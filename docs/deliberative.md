@@ -1,3 +1,5 @@
+**Satisfactory:  full credit**
+
 1. Hercules leonem Nemeum necauit. 
 
 a. necet b. necaret
