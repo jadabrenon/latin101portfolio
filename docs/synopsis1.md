@@ -1,4 +1,3 @@
-**Needs corrections** - corrected
 
 1. amo, amāre, amavi, amatus
 
