@@ -1,6 +1,3 @@
-**Needs corrections** - corrected.
-
-
 *Chaos* prīmus deōrum **erat**.
 *Fīliae* eius, Nox et Terra, māter omnium hominum, **erant**.
 Haec *māter* Mortis et Lētī **erat**.
