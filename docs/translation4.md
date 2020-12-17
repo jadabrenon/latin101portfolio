@@ -36,20 +36,28 @@ Minervae is the dative case, indirect object, and means to Minerva.
 passive, perfect, 3rd person, plural, indicative, it is a deponent verb since it has an active meaning
 
 5. What kind of grammatical construction do we have in the sentence Priamus imperavit equum in templum Minervae duci? Identify its constituent parts.
+
 priamus is nominative, the subject
+
 the verb is imperavit, which is 3rd person singular, perfect active menaing Priamus ordered
+
 priamus imperavit is the main clause - Priamus ordered. 
+
 equum in templum minervae duci is an indirect statement
+    
     minervae is genitive meaning the temple of Minerva.
     duci is passive form of the infinitive of the verb to lead
     equum is accusative and the subject of the infinitive duci
     -in templum is a prepositional phrase meaning to the temple
 
 6. Parse duci.
+
 duci is the passive form of the verb duco (present infintive) which means to lead. further, duci's translation is "to be led"
 
 7. What case is ei and what role is it playing in the sentence?
+
 ei is dative feminine, the indirect object replacing Cassandra, which means trust was not given to her. 
 
 8. What is the function of the que in portārumque?
+
 que means "and"
