@@ -1,11 +1,11 @@
-1. Cum Hercules missus sit ad pugnandum cerebrum, canem tricipitem, Lycus putabat Herculem mitteretur.
+1. Cum Hercules missus esset ad pugnandum cerebrum, canem tricipitem, Lycus putabat mortuum esse Herculem.
 
-2. Lycus, filius neptuni, volebat regnum herculis capere et interficere familiam herculis.
+2. Filius neptuni, Lycus, volebat regnum herculis capere et interficere familiam herculis.
 
-3. Cum Hercules consilii Lyci audierit Hercules rediit et eum celeriter interfecit.
+3. Cum Hercules consilium Lyci audivisset Hercules rediit et eum celeriter interfecit.
 
-4. Hercules puniebatur a Junone ob eum factum horribilem.
+4. Hercules a Junone ob id factum horrible puniebatur.
 
-5. Anima Herculis a Junone capta est et Hercules Megaram, filia creontis, et eum filios, Therimacum et Ophitem interfecit.
+5. Anima Herculis a Junone capta est et Hercules Megaram, filiam creontis, et suos filios, Therimacum et Ophitem interfecit.
 
-6. Postea, Hercules nolebat vivere Herculesque datus est in servitium.
+6. Postea, Hercules nolebat vivere Herculesque in servitium datus est.
