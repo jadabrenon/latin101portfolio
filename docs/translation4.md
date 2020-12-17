@@ -55,7 +55,7 @@ equum in templum minervae duci is an indirect statement
    
    equum is accusative and the subject of the infinitive duci
    
-   -in templum is a prepositional phrase meaning to the temple
+   in templum is a prepositional phrase meaning to the temple
 
 6. Parse duci.
 
