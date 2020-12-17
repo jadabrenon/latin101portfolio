@@ -3,15 +3,19 @@ ob id nōmen “Pandōra” ei **datum est**. Pandōra ab Iove in coniugium Epim
 
 What is the grammatical function of Iapetī fīlius prīmus?
 
-describing the subject
+to describe the subject
 
-Parse fingēbat and tell me what conjugation it belongs to. -verb, 3rd person, singular, imperfect, active, indicative
+Parse fingēbat and tell me what conjugation it belongs to.
+
+verb, 3rd person, singular, imperfect, active, indicative
 
 What type of adjective is huic, what case is it in, and what word does it agree with?
 
-demonstrative adjective, in the dative case, agreeing with the word feminae
+demonstrative adjective in the dative case, it agrees with the word feminae
 
-Identify the sentence structure of omnēs deī dōna eī misērunt (linking, transitive active, transitive passive or intransitive) and the grammatical function of each word in the sentence. -this is a transitive sentence, miserunt is the verb, 3rd person plural, perfect, active indicative, omnes is an adjective describing the gods, dei is genitive masculine noun that goes with omnes, saying "all of the gods" dona is a noun in the nominative plural case, and is the subject of the senctence.
+Identify the sentence structure of omnēs deī dōna eī misērunt (linking, transitive active, transitive passive or intransitive) and the grammatical function of each word in the sentence. 
+
+this is a transitive sentence, miserunt is the verb (3rd person plural, perfect, active indicative), omnes is an adjective describing the gods, dei is genitive masculine noun that goes with omnes, saying "all of the gods," dona is a noun in the nominative plural case, and is the subject of the senctence.
 
 Parse data est and indicate what conjugation the verb belongs to.
 
