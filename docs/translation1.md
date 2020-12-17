@@ -13,17 +13,17 @@ Surround all the verbs with two asterisks. (These will display as bold text.) Su
 **B. Grammatical Questions**
 
 - What case is eius and to what does it refer?   
-Eius is genitive and refers to Chaos.
+Genitive referring to Chaos
 - What type of word is haec ?   
-Haec is a demonstrative pronoun.
+Demonstrative pronoun
 - To whom does illius refer?   
-Illius refers to Chaos.
+Chaos
 - What case, number, and gender is monstra?  
-Monstra is nominative plural neuter.
+Nominative plural neuter
 - What declension does the word dracōnēs belong to?  
-Dracōnēs belongs to the third declension. 
+Third declension
 - What case and number is eorum and to whom does it refer?  
-Eorum is genitive plural and refers to deorum.
+Genitive plural referring to deorum
 - What word is understood (not included) in the sentence: Sed frāter eōrum Ūranus, prīmus ipse rēx deōrum?   
 The verb to be, erat.
 
