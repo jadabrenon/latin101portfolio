@@ -1,1 +1,1 @@
-Prometheus ignem ex deis cepit. Prometheus ignem ad homines dedebat. Prometheus a deis punitus est. Cor Promethei apud aquilam petebatur. Hercules eam interfecit.
+Prometheus ignem a deis cepit. Prometheus ignem ad homini dedit. Prometheus a deis puniebatur. Cor Promethei ab aquila petebatur. Hercules eam interfecit.
