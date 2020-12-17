@@ -15,7 +15,7 @@ Priamus ordered the horse to be led to the temple of Minerva.
 When the prophet, Cassandra, said that the horse contained the enemies,
  trust was not given to her and they placed the horse in front of the church.
 The Greeks went out of the gate
-and they killed the guards, conquered Troy. 
+and they killed the guards and conquered Troy. 
 
 1. What case is decem annōs and why?
 
@@ -26,9 +26,13 @@ decem annos is accusative since it shows a duration of ten years
 possent is imperfect subjunctive, active, 3rd person plural. Subjunctive was used here because it explains the circumstances (Troy wasn't able to capture)
 
 3. Explain the sentence structure of DANAI MINERVAE DONUM DANT?
+
 danai is nominative plural subject and means the greeks. 
+
 dant is present active, 3rd person plural and means gives
+
 donum is accusative singular and direct object of the subject
+
 Minervae is the dative case, indirect object, and means to Minerva. 
 
 4. What type of verb is arbitrati sunt?
@@ -45,10 +49,13 @@ priamus imperavit is the main clause - Priamus ordered.
 
 equum in templum minervae duci is an indirect statement
     
-    minervae is genitive meaning the temple of Minerva.
-    duci is passive form of the infinitive of the verb to lead
-    equum is accusative and the subject of the infinitive duci
-    -in templum is a prepositional phrase meaning to the temple
+   minervae is genitive meaning the temple of Minerva.
+   
+   duci is passive form of the infinitive of the verb to lead
+   
+   equum is accusative and the subject of the infinitive duci
+   
+   -in templum is a prepositional phrase meaning to the temple
 
 6. Parse duci.
 
