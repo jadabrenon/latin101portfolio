@@ -4,6 +4,6 @@
 
 3. Luppiter habuit aliam filiam Minervam sororem Martis et Vulcani.
 
-4. Venus erant uxor Vulcani.
+4. Venus erat uxor Vulcani.
 
-5. Hic deus erat deus amoris.
+5. Haec deus erat deus amoris.
